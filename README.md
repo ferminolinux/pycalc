@@ -1,4 +1,5 @@
 # pycalc
 Calculadora em Python
 
-[demo](./demo.GIF)
+## demo
+![demo](./demo.GIF)
